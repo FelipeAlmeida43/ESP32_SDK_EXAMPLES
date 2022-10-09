@@ -67,6 +67,8 @@ C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/mq
 C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/openssl/libopenssl.a
 C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/perfmon/libperfmon.a
 C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/spiffs/libspiffs.a
+C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/usb/libusb.a
+C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/touch_element/libtouch_element.a
 C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/ulp/libulp.a
 C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/esp-idf/main/libmain.a

@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Espressif/tools/xtensa-esp32-elf/esp-2021r2-patch2-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Espressif/tools/xtensa-esp32s2-elf/esp-2021r2-patch2-8.4.0/xtensa-esp32s2-elf/bin/xtensa-esp32s2-elf-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
@@ -49,7 +49,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/esp_system/cmake_install.cmake")
   include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake")
   include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/xtensa/cmake_install.cmake")
-  include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/esp32/cmake_install.cmake")
+  include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/esp32s2/cmake_install.cmake")
   include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/esp_common/cmake_install.cmake")
   include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/esp_rom/cmake_install.cmake")
   include("C:/Espressif/frameworks/esp-idf-v4.4/workspace/EX01_ESP32Course/build/bootloader/esp-idf/log/cmake_install.cmake")
